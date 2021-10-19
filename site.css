@@ -1,0 +1,11 @@
+img{
+  width: 100%;
+}
+
+.cb-collagecontainer{
+  width: 50%;
+}
+
+.cb-collagecontainer--right{
+  margin-left: 50%;
+}
