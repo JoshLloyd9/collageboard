@@ -18,6 +18,18 @@ img{
   margin-top: -40%;
 }
 
+.cb-textcontainer--left{
+  margin-top: -39%;
+}
+
+.cb-textcontainer--right2 {
+  margin-left: 50%;
+  margin-top: -42%;
+}
+
+.cb-textcontainer--left2{
+  margin-top: -40%;
+}
 
 .cb-backgroundimage2{
   position:absolute;
@@ -38,7 +50,7 @@ img{
 
 .cb-collagecontainer--right2{
   margin-left: 50%;
-  margin-top: -10%;
+  margin-top: -5%;
 }
 
 .cb-collagecontainer--left{
